@@ -1,6 +1,6 @@
 # prezto-helm
 
-Helm module for Zsh configuration framework Prezto.
+Helm module for Zsh configuration framework [Prezto](https://github.com/sorin-ionescu/prezto).
 
 ## Installation
 
